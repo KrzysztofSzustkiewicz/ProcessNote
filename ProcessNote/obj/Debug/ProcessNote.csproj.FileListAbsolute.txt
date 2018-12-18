@@ -1,0 +1,16 @@
+C:\CodeCool\C#\ProcessNote\ProcessNote\ProcessNote\bin\Debug\ProcessNote.exe.config
+C:\CodeCool\C#\ProcessNote\ProcessNote\ProcessNote\bin\Debug\ProcessNote.exe
+C:\CodeCool\C#\ProcessNote\ProcessNote\ProcessNote\bin\Debug\ProcessNote.pdb
+C:\CodeCool\C#\ProcessNote\ProcessNote\ProcessNote\obj\Debug\ProcessNote.csprojAssemblyReference.cache
+C:\CodeCool\C#\ProcessNote\ProcessNote\ProcessNote\obj\Debug\Views\MainWindow.g.cs
+C:\CodeCool\C#\ProcessNote\ProcessNote\ProcessNote\obj\Debug\Views\App.g.cs
+C:\CodeCool\C#\ProcessNote\ProcessNote\ProcessNote\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\CodeCool\C#\ProcessNote\ProcessNote\ProcessNote\obj\Debug\ProcessNote_MarkupCompile.cache
+C:\CodeCool\C#\ProcessNote\ProcessNote\ProcessNote\obj\Debug\ProcessNote_MarkupCompile.lref
+C:\CodeCool\C#\ProcessNote\ProcessNote\ProcessNote\obj\Debug\Views\MainWindow.baml
+C:\CodeCool\C#\ProcessNote\ProcessNote\ProcessNote\obj\Debug\ProcessNote.g.resources
+C:\CodeCool\C#\ProcessNote\ProcessNote\ProcessNote\obj\Debug\ProcessNote.Properties.Resources.resources
+C:\CodeCool\C#\ProcessNote\ProcessNote\ProcessNote\obj\Debug\ProcessNote.csproj.GenerateResource.cache
+C:\CodeCool\C#\ProcessNote\ProcessNote\ProcessNote\obj\Debug\ProcessNote.csproj.CoreCompileInputs.cache
+C:\CodeCool\C#\ProcessNote\ProcessNote\ProcessNote\obj\Debug\ProcessNote.exe
+C:\CodeCool\C#\ProcessNote\ProcessNote\ProcessNote\obj\Debug\ProcessNote.pdb
